@@ -7,7 +7,7 @@ Estudiantes:
 
 
 <a target="_blank" align="center">
-  <img align="center" top="500" height="312" width="747" alt="GIF" src="https://media.tenor.com/wpwPK8ITIb8AAAAC/bullet-train-lemon.gif">
+  <img align="center" top="500" height="250" width="598" alt="GIF" src="https://media.tenor.com/wpwPK8ITIb8AAAAC/bullet-train-lemon.gif">
 
   <br>
 
