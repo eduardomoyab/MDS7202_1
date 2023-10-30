@@ -1,0 +1,97 @@
+Variable: ID
+Variable Type: int64
+Number of Unique Values: 135571
+Percentage of Missing Values: 0.00%
+Number of Zeros: 0
+Number of Negative Values: 0
+Number of Outliers: 0
+Min: 1
+Max: 135571
+Mean: 68248.95439590434
+Percentiles: 0.25     34643.00
+0.50     68205.00
+0.75    102097.25
+1.00    135571.00
+Name: ID, dtype: float64
+
+Variable: Name
+Variable Type: object
+Number of Unique Values: 134732
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 134732)
+
+Variable: Sex
+Variable Type: object
+Number of Unique Values: 2
+Percentage of Missing Values: 0.00%
+
+Variable: Team
+Variable Type: object
+Number of Unique Values: 1184
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 1184)
+
+Variable: NOC
+Variable Type: object
+Number of Unique Values: 230
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 230)
+
+Variable: Games
+Variable Type: object
+Number of Unique Values: 51
+Percentage of Missing Values: 0.00%
+
+Variable: Year
+Variable Type: int64
+Number of Unique Values: 35
+Percentage of Missing Values: 0.00%
+Number of Zeros: 0
+Number of Negative Values: 0
+Number of Outliers: 0
+Min: 1896
+Max: 2016
+Mean: 1978.3784800601957
+Percentiles: 0.25    1960.0
+0.50    1988.0
+0.75    2002.0
+1.00    2016.0
+Name: Year, dtype: float64
+
+Variable: Season
+Variable Type: object
+Number of Unique Values: 2
+Percentage of Missing Values: 0.00%
+
+Variable: City
+Variable Type: object
+Number of Unique Values: 42
+Percentage of Missing Values: 0.00%
+
+Variable: Sport
+Variable Type: object
+Number of Unique Values: 66
+Percentage of Missing Values: 0.00%
+
+Variable: Event
+Variable Type: object
+Number of Unique Values: 765
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 765)
+
+Variable: Medal
+Variable Type: object
+Number of Unique Values: 3
+Percentage of Missing Values: 85.33%
+
+Variable: age-height-weight
+Variable Type: object
+Number of Unique Values: 82971
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 82971)
+
