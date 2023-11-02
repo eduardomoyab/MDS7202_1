@@ -1,0 +1,96 @@
+Variable: ID
+Variable Type: int64
+Number of Unique Values: 99088
+Percentage of Missing Values: 0.00%
+Number of Zeros: 0
+Number of Negative Values: 0
+Number of Outliers: 0
+Min: 1
+Max: 135571
+Mean: 68615.7429809073
+Percentiles: 0.25     35189.00
+0.50     68629.00
+0.75    102312.25
+1.00    135571.00
+Name: ID, dtype: float64
+
+Variable: Name
+Variable Type: object
+Number of Unique Values: 98546
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 98546)
+
+Variable: Sex
+Variable Type: category
+Number of Unique Values: 2
+Percentage of Missing Values: 0.00%
+
+Variable: Team
+Variable Type: object
+Number of Unique Values: 660
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 660)
+
+Variable: NOC
+Variable Type: category
+Number of Unique Values: 226
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 226)
+
+Variable: Games
+Variable Type: category
+Number of Unique Values: 51
+Percentage of Missing Values: 0.00%
+
+Variable: Year
+Variable Type: category
+Number of Unique Values: 35
+Percentage of Missing Values: 0.00%
+
+Variable: Season
+Variable Type: category
+Number of Unique Values: 2
+Percentage of Missing Values: 0.00%
+
+Variable: City
+Variable Type: category
+Number of Unique Values: 42
+Percentage of Missing Values: 0.00%
+
+Variable: Sport
+Variable Type: category
+Number of Unique Values: 56
+Percentage of Missing Values: 0.00%
+
+Variable: Event
+Variable Type: object
+Number of Unique Values: 590
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 590)
+
+Variable: Medal
+Variable Type: category
+Number of Unique Values: 4
+Percentage of Missing Values: 0.00%
+
+Variable: age-height-weight_0
+Variable Type: category
+Number of Unique Values: 61
+Percentage of Missing Values: 0.00%
+
+Variable: age-height-weight_1
+Variable Type: category
+Number of Unique Values: 94
+Percentage of Missing Values: 0.00%
+
+Variable: age-height-weight_2
+Variable Type: category
+Number of Unique Values: 217
+Percentage of Missing Values: 0.00%
+Anomaly Detected! High Cardinality Variable
+Anomaly Type: High Cardinality (Unique Values: 217)
+
